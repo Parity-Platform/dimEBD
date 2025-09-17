@@ -21,7 +21,7 @@ More training steps and features are planned for future development.
 ---
 
 ## 🙌 Credits
-All 3D models and assets used in this project are listed in the [credits.csv](3d_models_credits.csv) file in this repository.  
+All 3D models and assets used in this project are listed in the [credits.xlsx](3d_models_credits.xlsx) file in this repository.  
 Please see that file for authors, sources, and licenses for each asset.
 
 ---
