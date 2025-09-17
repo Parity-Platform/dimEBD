@@ -26,14 +26,6 @@ Please see that file for authors, sources, and licenses for each asset.
 
 ---
 
-## 🤝 Acknowledgements
-
-This VR training project, **EBD Electrical Buddy**, was developed during my internship for **Parity Platform**.  
-
-Special thanks to Parity Platform for providing guidance, resources, and feedback throughout the development process.
-
----
-
 ## 📸 Screenshots  
 ![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(405).png?raw=true)
 ![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(407).png?raw=true)
