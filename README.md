@@ -22,9 +22,12 @@ More training steps and features are planned for future development.
 ---
 
 ## 📸 Screenshots  
-![Start](Assets/Images/Screenshot_405.png)
-![EV Charger](Assets/Images/Screenshot_408.png) 
-![Interaction with cables](Assets/Images/Screenshot_409.png) 
-![Cable at EV Tester](Assets/Images/Screenshot_410.png) 
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(405).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(407).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(407).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(409).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(410).png?raw=true)
+
+
 
 
