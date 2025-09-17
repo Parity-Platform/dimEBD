@@ -22,4 +22,12 @@ More training steps and features are planned for future development.
 ---
 
 ## 📸 Screenshots  
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(405).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(407).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(407).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(409).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(410).png?raw=true)
+
+
+
 
