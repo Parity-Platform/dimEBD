@@ -27,7 +27,7 @@ Please see that file for authors, sources, and licenses for each asset.
 ---
 
 ## 📸 Screenshots from XR Device Simulator
-![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(405).png?raw=true)
+![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(419).png?raw=true)
 ![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(407).png?raw=true)
 ![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(407).png?raw=true)
 ![image alt](https://github.com/Parity-Platform/dimEBD/blob/main/Assets/Images/Screenshot%20(409).png?raw=true)
